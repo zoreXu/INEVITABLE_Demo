@@ -1,4 +1,0 @@
-#Thu May 09 20:51:31 IRKT 2019
-base.0=/home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/build/intermediates/transforms/dexMerger/debug/9
-path.0=classes.dex
-renamed.0=classes.dex
