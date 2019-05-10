@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/842a7d3e5bd9e11384543274849a8d99/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/jian2020/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/83570bfbce3864de25a03863263b216f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/846f0c722dfd22e082848b7bfdde0571/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/12245300a02cd6ae8129bca5e1ae668c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/77b950a3e8b30c7f12db9aacdc0113f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/02ffbd628317b336b88f4b50441f4af3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/cf83c6f11869bc9f1bf8ee759069ab29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b5611479a1ea38e26afa6887b61ee419/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5947f7e28af1b8e8bf9a0ab6ddc97ccd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e0af7fc0b6b5aeadf0760ff6b08d73b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/bad33053996056642732f199f67f0042/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e1a7c01b68577ae5c8f67964195d64f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/465a438f15efc774ea97cde7e96a2931/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/14e13a4734d329fc8a51329f8ca56281/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/55b16b4fb7dfc53adcf4d3f750dce526/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/44535bc97cc33328ae57b3f9bd42a817/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/06328c8113303b0afd6ccea75035818f/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3dc492d8e47d670bfe67a07779be075c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/jian2020/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/49b3ef00aad3129ca51b03e9cb6cf6d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/83f35b1de7929c53c95a78f8c2366d55/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/08557963b1e516704160207348b32f19/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a1092f5ffb41db0c871a4f679cf431e9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/jian2020/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8aab54514519fbe8e4bbb821947a8cf3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/jian2020/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1687870a8f094f757ab29f9bc4f101d9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/jian2020/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a810783be12a0021a81079ab36196773/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/jian2020/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/479ca8ac9c32921de5aa8f38a2c12d35/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/fc84be46edbf70bc0297f2b873d4fa45/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:3:5-57
+		INJECTED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml
+		ADDED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml
+		ADDED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/jian2020/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/83570bfbce3864de25a03863263b216f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/jian2020/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/83570bfbce3864de25a03863263b216f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/44535bc97cc33328ae57b3f9bd42a817/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/44535bc97cc33328ae57b3f9bd42a817/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/06328c8113303b0afd6ccea75035818f/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/06328c8113303b0afd6ccea75035818f/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/44535bc97cc33328ae57b3f9bd42a817/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.jian2020.nuc.webviewdemo_94243.MainActivity
+ADDED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml
+INJECTED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/842a7d3e5bd9e11384543274849a8d99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/842a7d3e5bd9e11384543274849a8d99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/jian2020/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/83570bfbce3864de25a03863263b216f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/jian2020/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/83570bfbce3864de25a03863263b216f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/846f0c722dfd22e082848b7bfdde0571/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/846f0c722dfd22e082848b7bfdde0571/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/12245300a02cd6ae8129bca5e1ae668c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/12245300a02cd6ae8129bca5e1ae668c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/77b950a3e8b30c7f12db9aacdc0113f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/77b950a3e8b30c7f12db9aacdc0113f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/02ffbd628317b336b88f4b50441f4af3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/02ffbd628317b336b88f4b50441f4af3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/cf83c6f11869bc9f1bf8ee759069ab29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/cf83c6f11869bc9f1bf8ee759069ab29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b5611479a1ea38e26afa6887b61ee419/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b5611479a1ea38e26afa6887b61ee419/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5947f7e28af1b8e8bf9a0ab6ddc97ccd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5947f7e28af1b8e8bf9a0ab6ddc97ccd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e0af7fc0b6b5aeadf0760ff6b08d73b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e0af7fc0b6b5aeadf0760ff6b08d73b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/bad33053996056642732f199f67f0042/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/bad33053996056642732f199f67f0042/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e1a7c01b68577ae5c8f67964195d64f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e1a7c01b68577ae5c8f67964195d64f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/465a438f15efc774ea97cde7e96a2931/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/465a438f15efc774ea97cde7e96a2931/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/14e13a4734d329fc8a51329f8ca56281/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/14e13a4734d329fc8a51329f8ca56281/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/55b16b4fb7dfc53adcf4d3f750dce526/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/55b16b4fb7dfc53adcf4d3f750dce526/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/44535bc97cc33328ae57b3f9bd42a817/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/44535bc97cc33328ae57b3f9bd42a817/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/06328c8113303b0afd6ccea75035818f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/06328c8113303b0afd6ccea75035818f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3dc492d8e47d670bfe67a07779be075c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3dc492d8e47d670bfe67a07779be075c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/jian2020/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/49b3ef00aad3129ca51b03e9cb6cf6d1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/jian2020/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/49b3ef00aad3129ca51b03e9cb6cf6d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/83f35b1de7929c53c95a78f8c2366d55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/83f35b1de7929c53c95a78f8c2366d55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/08557963b1e516704160207348b32f19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/08557963b1e516704160207348b32f19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a1092f5ffb41db0c871a4f679cf431e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a1092f5ffb41db0c871a4f679cf431e9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/jian2020/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8aab54514519fbe8e4bbb821947a8cf3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/jian2020/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8aab54514519fbe8e4bbb821947a8cf3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/jian2020/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1687870a8f094f757ab29f9bc4f101d9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/jian2020/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1687870a8f094f757ab29f9bc4f101d9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/jian2020/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a810783be12a0021a81079ab36196773/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/jian2020/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a810783be12a0021a81079ab36196773/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/jian2020/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/479ca8ac9c32921de5aa8f38a2c12d35/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/jian2020/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/479ca8ac9c32921de5aa8f38a2c12d35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/fc84be46edbf70bc0297f2b873d4fa45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/jian2020/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/fc84be46edbf70bc0297f2b873d4fa45/AndroidManifest.xml:20:5-44
+INJECTED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml
+INJECTED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml
+		ADDED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml
+		ADDED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jian2020/AndroidStudioProjects/WebViewDemo_94243/app/src/main/AndroidManifest.xml
