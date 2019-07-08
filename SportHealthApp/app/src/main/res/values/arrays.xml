@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ld_activityScreenTitles">
+        <item>Home</item>
+        <item>Run</item>
+        <item>Discovery</item>
+        <item>Plan</item>
+        <item>Data</item>
+        <item>Share</item>
+        <item>Setting</item>
+        <item>Problem</item>
+        <item />
+        <item>Log Out</item>
+    </string-array>
+
+    <array name="ld_activityScreenIcons">
+        <item>@drawable/ic_home_outline_grey600</item>
+        <item>@drawable/ic_run_outline_grey600</item>
+        <item>@drawable/ic_discovery_outline_grey600</item>
+        <item>@drawable/ic_plan_outline_grey600</item>
+        <item>@drawable/ic_data_outline_grey600</item>
+        <item>@drawable/ic_share_outline_grey600</item>
+        <item>@drawable/ic_setting_outline_grey600</item>
+        <item>@drawable/ic_problem_outline_grey600</item>
+        <item>0</item>
+        <item>@drawable/ic_logout_grey600</item>
+    </array>
+
+</resources>

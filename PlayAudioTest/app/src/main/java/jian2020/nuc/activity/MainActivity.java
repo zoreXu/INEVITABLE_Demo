@@ -35,6 +35,12 @@ public class MainActivity extends AppCompatActivity {
 
         init();
 
+        playbt.setOnClickListener(myLinstener);
+
+        pausebt.setOnClickListener(myLinstener);
+
+        stopbt.setOnClickListener(myLinstener);
+
         //对SD卡读写权限的检查
         if (ContextCompat.checkSelfPermission(MainActivity.this,
                 Manifest.permission.WRITE_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED){
@@ -43,12 +49,6 @@ public class MainActivity extends AppCompatActivity {
         } else {
             initMediaPlayer(); //初始化MediaPlayer
         }
-
-        playbt.setOnClickListener(myLinstener);
-
-        pausebt.setOnClickListener(myLinstener);
-
-        stopbt.setOnClickListener(myLinstener);
     }
 
     private void initMediaPlayer(){

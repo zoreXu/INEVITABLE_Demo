@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <Button
+        android:id="@+id/send_requestBt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send Request"
+        />
+
+    <Button
+        android:id="@+id/okhttp_send_requestBt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PULL 解析"/>
+
+    <Button
+        android:id="@+id/jsonBt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="JSON 解析 JSON"
+        />
+
+    <Button
+        android:id="@+id/saxBt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SAX 解析 XML"
+        />
+
+    <Button
+        android:id="@+id/gsonBt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GSON 解析 JSON"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/reponse_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+    </ScrollView>
+
+</LinearLayout>
